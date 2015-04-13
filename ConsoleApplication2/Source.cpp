@@ -14,6 +14,7 @@ int main()
 	if (b > max)
 		max = b;
 	cout << "Maximum is: \n" << max;
+
 	system ("pause");
 
 }
